@@ -1,9 +1,9 @@
-### 👋 Hi, I'm a passionate Front-End Developer, UI/UX Enthusiast, and AI Explorer currently pursuing my MCA at CUSAT. I love crafting intuitive user experiences, solving problems through technology, and exploring the potential of AI in web applications.
+👋 Hi, I'm a passionate Front-End Developer, UI/UX Enthusiast, and AI Explorer currently pursuing my MCA at CUSAT. I love crafting intuitive user experiences, solving problems through technology, and exploring the potential of AI in web applications.
 
 💡 What I Do:
 
 - 🎨 Designing sleek and user-friendly interfaces in Figma
-- ⚛️ Building interactive web apps with React & TypeScript
+- ⚛️ Building interactive web apps with React
 - 🤖 Experimenting with AI/ML for intelligent applications
 
 🚀 Always excited to learn, build, and innovate!
